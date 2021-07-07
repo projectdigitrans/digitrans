@@ -4,4 +4,8 @@ Our research group developed a data module to measure technological exposure in 
 
 ## Data description
 
-## Data access
+## Module on Digital Exposure
+
+## Access
+
+The SOEP data are available to the reseach community free of charge. More details on data access can be found [here](https://www.diw.de/en/diw_01.c.601584.en/data_access.html).
