@@ -6,6 +6,10 @@ Our research group developed a data module to measure technological exposure in 
 
 ## Module on Digital Exposure
 
+## Questionnaires
+
+The full questionnaire of SOEP-IS 2019 can be found here: in [German](../MISC/diw_ssp0953.pdf) and in [English](../MISC/diw_ssp0956.pdf).
+
 ## Access
 
 The SOEP data are available to the reseach community free of charge. More details on data access can be found [here](https://www.diw.de/en/diw_01.c.601584.en/data_access.html).
