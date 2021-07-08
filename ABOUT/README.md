@@ -1,5 +1,5 @@
 
-<p align="center"><img src="Logo_DIW-SOEP_Farbe_Web.svg.582787.gif" width=100/> <img src="tu-berlin-logo.svg" width=100/></p>
+<p align="center"><img src="../Logo_DIW-SOEP_Farbe_Web.svg.582787.gif" width=150/> <img src="../tu-berlin-logo.svg" width=50/></p>
 
 **Dr. Alexandra Fedorets** (PI) is an empirical labor economist at the SOEP Department at the German Institute for Economic Research. In her dissertation, she studied the effects of technological progress on occupational contents, based on the so-called *task-based approach*. Currently, she conducts research on the effects technology can have on wages and working conditions. Dr. Fedorets is also an expert on the German minimum wage reform, with experience both in policy consulting and media outreach.
 
