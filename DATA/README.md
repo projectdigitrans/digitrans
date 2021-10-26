@@ -4,7 +4,11 @@ Our research group developed a data module to measure technological exposure in 
 
 ## Data description
 
+
+
 ## Module on Digital Exposure
+
+The module on digital exposure leans on the [existing variables landscape of the SOEP](../MISC/Appendix_A_Existing_Questionnaire_Landscape.pdf), that already comprises many aspects of the work life potentially affected by digital exposure. 
 
 ## Questionnaires
 
