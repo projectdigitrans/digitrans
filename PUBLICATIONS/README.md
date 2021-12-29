@@ -11,6 +11,8 @@ Our project aims not only to provide the research community with new data on dig
 [Künstliche Intelligenz in Deutschland: Erwerbstätige wissen oft nicht, dass sie mit KI-basierten Systemen arbeiten](https://www.diw.de/de/diw_01.c.830723.de/publikationen/wochenberichte/2021_48_1/kuenstliche_intelligenz_in_deutschland__erwerbstaetige_wissen_oft_nicht__dass_sie_mit_ki-basierten_systemen_arbeiten.html?pic=overview-figure1#overview-figure1) O.Giering, A.Fedorets, J.Adriaans, S.Kirchner, DIW Wochenbericht 48/2021
 
 ## Media outreach
+2021-12-27 [KI in der Arbeitswelt längst angekommen](https://www.deutschlandfunk.de/ki-in-der-arbeitswelt-laengst-angekommen-interview-mit-oliver-giering-tu-berlin-dlf-9e3c88e4-100.html) O.Giering, Interview mit Deutschlandfunk
+
 2021-12-08 [Studie: Erwerbstätige wissen oft nicht, dass sie mit KI arbeiten](http://www.ki-note.de/einzelansicht/studie-erwerbstaetige-wissen-oft-nicht-dass-sie-mit-ki-arbeiten) ki-note
 
 2021-12-08 [Revolution, die viele Beschäftigte gar nicht bemerken](https://www.rnd.de/wirtschaft/ki-im-joballtag-eine-revolution-die-viele-beschaeftigte-gar-nicht-bemerken-UPFONUDVLRDN3HZVN62PRM6H4Q.html) RND
