@@ -3,6 +3,7 @@
 Our project aims not only to provide the research community with new data on digital transformation, but also to contribute to the empirical research on digital transformation and its impacts on employment and quality of work. Below, we link publications of our research group.
 
 ## Academic
+[Data on Digital Transformation in the German Socio-Economic Panel](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjkuYDs3Ij1AhWugP0HHcetDL8QFnoECBEQAQ&url=https%3A%2F%2Fwww.degruyter.com%2Fdocument%2Fdoi%2F10.1515%2Fjbnst-2021-0056%2Fpdf&usg=AOvVaw1lAOXOaTmP5NXkeXv8EUFg) A.Fedorets, S. Kirchner, J. Adriaans, O. Giering, Journal of Economics and Statistics 2021 (Data Observer, open access)
 
 ## Policy
 [Artificial Intelligence in Germany: Employees Often Unaware They Are Working with AI-Based Systems](https://www.diw.de/de/diw_01.c.831281.de/publikationen/weekly_reports/2021_48_1/artificial_intelligence_in_germany__employees_often_unaware_they_are_working_with_ai-based_systems.html) O.Giering, A.Fedorets, J.Adriaans, S.Kirchner, DIW Weekly Report 48/2021
