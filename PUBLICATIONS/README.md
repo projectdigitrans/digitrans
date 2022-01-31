@@ -17,6 +17,8 @@ Our project aims not only to provide the research community with new data on dig
 
 2021-12-08 [Revolution, die viele Beschäftigte gar nicht bemerken](https://www.rnd.de/wirtschaft/ki-im-joballtag-eine-revolution-die-viele-beschaeftigte-gar-nicht-bemerken-UPFONUDVLRDN3HZVN62PRM6H4Q.html) RND
 
+2021-21-06 [Künstliche Intelligenz: Viele Arbeitnehmer wissen nicht, dass sie mit KI arbeiten](https://dup-magazin.de/technologie/viele-arbeitnehmer-wissen-nicht-dass-sie-mit-ki-arbeiten/) DUP Magazin
+
 2021-12-01 [Studie: Viele Deutsche wissen nicht, dass sie mit KI arbeiten](https://background.tagesspiegel.de/digitalisierung/studie-viele-deutsche-wissen-nicht-dass-sie-mit-ki-arbeiten) Tagesspiegel
 
 2021-12-01 [Künstliche Intelligenz ist für viele Erwerbstätige bereits Teil der alltäglichen Arbeit - ohne dass sie es wissen](https://www.pressebox.de/inaktiv/deutsches-institut-fuer-wirtschaftsforschung-ev-diw-berlin/Kuenstliche-Intelligenz-ist-fuer-viele-Erwerbstaetige-bereits-Teil-der-alltaeglichen-Arbeit-ohne-dass-sie-es-wissen/boxid/1087965) pressebox
