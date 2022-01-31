@@ -11,15 +11,19 @@ Our project aims not only to provide the research community with new data on dig
 [Künstliche Intelligenz in Deutschland: Erwerbstätige wissen oft nicht, dass sie mit KI-basierten Systemen arbeiten](https://www.diw.de/de/diw_01.c.830723.de/publikationen/wochenberichte/2021_48_1/kuenstliche_intelligenz_in_deutschland__erwerbstaetige_wissen_oft_nicht__dass_sie_mit_ki-basierten_systemen_arbeiten.html?pic=overview-figure1#overview-figure1) O.Giering, A.Fedorets, J.Adriaans, S.Kirchner, DIW Wochenbericht 48/2021
 
 ## Media outreach
-2021-12-27 [KI in der Arbeitswelt längst angekommen](https://www.deutschlandfunk.de/ki-in-der-arbeitswelt-laengst-angekommen-interview-mit-oliver-giering-tu-berlin-dlf-9e3c88e4-100.html) O.Giering, Interview mit Deutschlandfunk
+2021-12-27 [KI in der Arbeitswelt längst angekommen](https://www.deutschlandfunk.de/ki-in-der-arbeitswelt-laengst-angekommen-interview-mit-oliver-giering-tu-berlin-dlf-9e3c88e4-100.html) O.Giering, Radio-Interview mit Deutschlandfunk
 
 2021-12-08 [Studie: Erwerbstätige wissen oft nicht, dass sie mit KI arbeiten](http://www.ki-note.de/einzelansicht/studie-erwerbstaetige-wissen-oft-nicht-dass-sie-mit-ki-arbeiten) ki-note
 
 2021-12-08 [Revolution, die viele Beschäftigte gar nicht bemerken](https://www.rnd.de/wirtschaft/ki-im-joballtag-eine-revolution-die-viele-beschaeftigte-gar-nicht-bemerken-UPFONUDVLRDN3HZVN62PRM6H4Q.html) RND
 
-2021-21-06 [Künstliche Intelligenz: Viele Arbeitnehmer wissen nicht, dass sie mit KI arbeiten](https://dup-magazin.de/technologie/viele-arbeitnehmer-wissen-nicht-dass-sie-mit-ki-arbeiten/) DUP Magazin
+2021-12-06 [Künstliche Intelligenz: Viele Arbeitnehmer wissen nicht, dass sie mit KI arbeiten](https://dup-magazin.de/technologie/viele-arbeitnehmer-wissen-nicht-dass-sie-mit-ki-arbeiten/) DUP Magazin
+
+2021-12-02 [Unsichtbare KI](https://www.leibniz-gemeinschaft.de/ueber-uns/neues/forschungsnachrichten/forschungsnachrichten-single/newsdetails/unsichtbare-ki) Leibniz-Gemeinschaft
 
 2021-12-01 [Studie: Viele Deutsche wissen nicht, dass sie mit KI arbeiten](https://background.tagesspiegel.de/digitalisierung/studie-viele-deutsche-wissen-nicht-dass-sie-mit-ki-arbeiten) Tagesspiegel
+
+2021-12-01 [Omnipräsent: Viele arbeiten mit KI, ohne es zu wissen](https://www.it-daily.net/shortnews/31655-omnipraesent-viele-arbeiten-mit-ki-ohne-es-zu-wissen) it daily
 
 2021-12-01 [Künstliche Intelligenz ist für viele Erwerbstätige bereits Teil der alltäglichen Arbeit - ohne dass sie es wissen](https://www.pressebox.de/inaktiv/deutsches-institut-fuer-wirtschaftsforschung-ev-diw-berlin/Kuenstliche-Intelligenz-ist-fuer-viele-Erwerbstaetige-bereits-Teil-der-alltaeglichen-Arbeit-ohne-dass-sie-es-wissen/boxid/1087965) pressebox
 
